@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/web-gioi-thieu-dich-vu-tang-toc-shop.html"
+    }
+  ]
+}
